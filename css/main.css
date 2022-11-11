@@ -98,6 +98,11 @@ canvas {
 .STARDUST3 {
   position: relative !important;
   top: -20px;
+  color: #b3ffff !important;
+}
+
+.STARDUST3 strong{
+  color: #ff99ff;
 }
 
 /* 星空css */
